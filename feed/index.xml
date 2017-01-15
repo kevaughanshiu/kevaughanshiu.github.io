@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kevaughan.com</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>kevaughan.com wordpress sandbox</description>
+	<lastBuildDate>Sun, 15 Jan 2017 04:53:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7</generator>
+	<item>
+		<title>This Website</title>
+		<link>/2016/12/12/this-website/</link>
+		<pubDate>Mon, 12 Dec 2016 21:05:14 +0000</pubDate>
+		<dc:creator><![CDATA[kevaughan]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1</guid>
+		<description><![CDATA[<p>This entire website was built off the Amazon Web Services (AWS) Free Tier account. Basically, I made a bucket in S3 and turned that into a static website. The downside is, it&#8217;s completely static. So anything dynamic, like allowing people to post comments and fill in forms, is not possible; think of it as a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2016/12/12/this-website/">This Website</a> appeared first on <a rel="nofollow" href="/">kevaughan.com</a>.</p>
+]]></description>
+		</item>
+	</channel>
+</rss>
